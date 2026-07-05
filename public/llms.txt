@@ -1,0 +1,105 @@
+# Amidi — Generative Engine Optimization Map
+
+> A men's clothing store focused on providing fashion and apparel for male customers. The brand centers around menswear retail, offering clothing items tailored to men's style needs.
+
+---
+
+## Pages
+
+### בית
+https://amidi-72c085b7.zappy5.app
+גלה את קולקציית אופנת הגברים המובילה ב-Amidi. בגדים מעוצבים, איכותיים ומלאי סטייל שמדגישים את האישיות שלך. היכנס עכשיו ותתחיל להתלבש בהשראה.
+
+### מדריך סגנון
+https://amidi-72c085b7.zappy5.app/style-guide
+מדריך הסגנון של Amidi חושף את כל הסודות להרכבת הופעה מושלמת. טרנדים, שילובים וטיפים שיהפכו אותך לאייקון אופנה. התחל לעצב את הסטייל שלך עוד היום.
+
+### אודות
+https://amidi-72c085b7.zappy5.app/about
+הכירו את Amidi – מותג אופנת גברים שנולד מתוך תשוקה אמיתית לסטייל. אנו מביאים לכם בגדים שמספרים סיפור של איכות, ביטחון ועיצוב ללא פשרות. הצטרפו למסע.
+
+### צור קשר
+https://amidi-72c085b7.zappy5.app/contact
+יש לך שאלה על המידה המושלמת או זקוק לייעוץ סטיילינג אישי? צוות Amidi כאן בשבילך. צור קשר עכשיו וקבל מענה מהיר ומקצועי שיקדם את ההופעה שלך.
+
+### Products
+https://amidi-72c085b7.zappy5.app/products
+המוצרים שלנו - Amidi
+
+### Cart
+https://amidi-72c085b7.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://amidi-72c085b7.zappy5.app/checkout
+תשלום
+
+### Login
+https://amidi-72c085b7.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://amidi-72c085b7.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://amidi-72c085b7.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://amidi-72c085b7.zappy5.app/product/:slug
+פרטי המוצר - Amidi
+
+### Category
+https://amidi-72c085b7.zappy5.app/category/:slug
+מוצרים - Amidi
+
+### תודה רבה | Amidi
+https://amidi-72c085b7.zappy5.app/thank-you
+תודה רבה על פנייתך ל-Amidi. קיבלנו את ההודעה ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://amidi-72c085b7.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://amidi-72c085b7.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://amidi-72c085b7.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Amidi
+A men's clothing store focused on providing fashion and apparel for male customers. The brand centers around menswear retail, offering clothing items tailored to men's style needs.
+
+## Target Audience
+- גברים
+- אנשי מקצוע אופנתיים
+- אנשי מקצוע צעירים עירוניים
+- מנהלים מוכנים לאירועים
+
+## Industry
+Men's Fashion Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://amidi-72c085b7.zappy5.app/sitemap.xml
+- Robots: https://amidi-72c085b7.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://amidi-72c085b7.zappy5.app/llms-full.txt
+- Products (JSON): https://amidi-72c085b7.zappy5.app/products.json
+- Products (Google Merchant RSS): https://amidi-72c085b7.zappy5.app/product-feed.xml
