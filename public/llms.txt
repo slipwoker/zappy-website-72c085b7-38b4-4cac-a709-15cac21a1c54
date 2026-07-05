@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://amidi-72c085b7.zappy5.app
+https://example.com
 גלה את קולקציית אופנת הגברים המובילה ב-Amidi. בגדים מעוצבים, איכותיים ומלאי סטייל שמדגישים את האישיות שלך. היכנס עכשיו ותתחיל להתלבש בהשראה.
 
 ### מדריך סגנון
-https://amidi-72c085b7.zappy5.app/style-guide
+https://example.com/style-guide
 מדריך הסגנון של Amidi חושף את כל הסודות להרכבת הופעה מושלמת. טרנדים, שילובים וטיפים שיהפכו אותך לאייקון אופנה. התחל לעצב את הסטייל שלך עוד היום.
 
 ### אודות
-https://amidi-72c085b7.zappy5.app/about
+https://example.com/about
 הכירו את Amidi – מותג אופנת גברים שנולד מתוך תשוקה אמיתית לסטייל. אנו מביאים לכם בגדים שמספרים סיפור של איכות, ביטחון ועיצוב ללא פשרות. הצטרפו למסע.
 
 ### צור קשר
-https://amidi-72c085b7.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על המידה המושלמת או זקוק לייעוץ סטיילינג אישי? צוות Amidi כאן בשבילך. צור קשר עכשיו וקבל מענה מהיר ומקצועי שיקדם את ההופעה שלך.
 
 ### Products
-https://amidi-72c085b7.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Amidi
 
 ### Cart
-https://amidi-72c085b7.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://amidi-72c085b7.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://amidi-72c085b7.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://amidi-72c085b7.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://amidi-72c085b7.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://amidi-72c085b7.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Amidi
 
 ### Category
-https://amidi-72c085b7.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Amidi
 
 ### תודה רבה | Amidi
-https://amidi-72c085b7.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך ל-Amidi. קיבלנו את ההודעה ונחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://amidi-72c085b7.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://amidi-72c085b7.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://amidi-72c085b7.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Men's Fashion Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://amidi-72c085b7.zappy5.app/sitemap.xml
-- Robots: https://amidi-72c085b7.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://amidi-72c085b7.zappy5.app/llms-full.txt
-- Products (JSON): https://amidi-72c085b7.zappy5.app/products.json
-- Products (Google Merchant RSS): https://amidi-72c085b7.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
